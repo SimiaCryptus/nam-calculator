@@ -1,18 +1,12 @@
 {
     "id": "nam-calculator",
     "title": "nam — Numbers as Machines",
-    "description": "A calculator where every number is a deterministic, forkable virtual machine emitting an infinite digit stream on demand. Comparison is honestly tri-state, fork cost is annotated by tier, and unprovable digits render as 'pending (null)' rather than a comfortable lie.",
-    "tags": [
-        "exact-real-arithmetic",
-        "computable-analysis",
-        "digit-streams",
-        "undecidability",
-        "wasm",
-        "calculator",
-        "interactive"
-    ],
-    "category": "labs",
+    "pitch": "A calculator where every number is a deterministic, forkable virtual machine emitting an infinite digit stream on demand. Comparison is honestly tri-state, fork cost is annotated by tier, and unprovable digits render as 'pending (null)' rather than a comfortable lie.",
+    "category": "lab",
     "href": "index.html",
     "readme": "README.md",
-    "order": 19
+    "order": 19,
+    "section": "featured",
+    "icon": "NM",
+    "launchLabel": "Open the nam interactive calculator"
 }
